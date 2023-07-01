@@ -29,7 +29,7 @@ For our project, we used **Jupyter Notebook**, along with the following librarie
 
   &nbsp;
   
-### From the Tesla order data set, we found four primary causes of Tesla order cancellations:
+### We Found Four Strongly Correlated Reasons for Tesla Order Cancellations:
 - Difficulty ordering or receiving a Tesla (32%)
 - Issues with customer service (25.6%)
 - Elon Musk's online persona (25.3%)
@@ -39,7 +39,7 @@ For our project, we used **Jupyter Notebook**, along with the following librarie
 
 &nbsp;
 
-### From the data set of Elon Musk's tweets, we found three primary causes of Tesla order cancellations:
+### Additonally, These Three Topics in Elon Musk's Tweets are Strongly Correlated with Tesla Order Cancellation:
 - His acquisition of Twitter (39.7%)
 - Politics (30.2%)
 - Engaging in discourse / Tagging others (30.1%)
@@ -98,4 +98,4 @@ Reading in tweet data from CSV files.
 ## Note:
 We ran out of time to eliminate all bias, such as selection and confirmation bias when analyzing the tweets.  We also did not address the potential for bot data to comprise some of our results. These issues could be addressed with a continuation of this project.
  
-I hope this is helpful! Let me know if you have any other questions. Additionally, go check out Melvin's Github Page https://github.com/melvinrajendran
+I hope this is helpful! Let me know if you have any other questions. Additionally, go check out Melvin's Github Page: https://github.com/melvinrajendran
